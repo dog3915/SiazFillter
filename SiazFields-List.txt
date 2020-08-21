@@ -1,0 +1,16 @@
+[ADGUARD]
+! Title: SiazFields List
+! Version: 0.01
+! Last modified: 13 July 2020 14:00 +0700
+! Expires: 3 days
+
+miku-doujin.com##.container.text-center.mb-3
+miku-doujin.com##.text-center.mb-3
+hanimesubth.com##.text-center
+
+! Widget
+##iframe[src*="wink.in.th"]
+
+!#if ext_ublock
+!#include ublock.txt
+!#endif
