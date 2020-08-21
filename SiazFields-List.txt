@@ -7,6 +7,17 @@
 miku-doujin.com##.container.text-center.mb-3
 miku-doujin.com##.text-center.mb-3
 hanimesubth.com##.text-center
+nhentai.net##.container.advertisement.advt
+
+cat-translator.com##.banner_zone
+cat-translator.com###fixedban
+
+hentaithai.com##.col-12.col-sm-8.col-md-6.col-lg-4
+anime-sugoi.com###bt-ads
+anime-sugoi.com##.col-md-8
+anime-master.com###slider-b
+animerem.com##.ads-banners
+
 av-uncen.com###custom_html-3
 av-uncen.com##.widget_text.extendedwopts-md-center.widget.widget_custom_html
 av-uncen.com##.code-block.code-block-2
