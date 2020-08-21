@@ -10,6 +10,10 @@ hanimesubth.com##.text-center
 av-uncen.com###custom_html-3
 av-uncen.com##.widget_text.extendedwopts-md-center.widget.widget_custom_html
 av-uncen.com##.code-block.code-block-2
+jav.guru##.sbox
+jav.guru##.cente
+jav.guru##div[style="text-align:center;"]
+jav.guru##div[style="text-align:center;"]
 
 ! Widget
 ##iframe[src*="wink.in.th"]
