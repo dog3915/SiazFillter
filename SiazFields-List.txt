@@ -7,6 +7,9 @@
 miku-doujin.com##.container.text-center.mb-3
 miku-doujin.com##.text-center.mb-3
 hanimesubth.com##.text-center
+av-uncen.com###custom_html-3
+av-uncen.com##.widget_text.extendedwopts-md-center.widget.widget_custom_html
+av-uncen.com##.code-block.code-block-2
 
 ! Widget
 ##iframe[src*="wink.in.th"]
