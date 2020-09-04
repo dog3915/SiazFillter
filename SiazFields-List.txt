@@ -1,8 +1,10 @@
-[ADGUARD]
-! Title: SiazFields List
-! Version: 0.01
-! Last modified: 13 July 2020 14:00 +0700
+[Adblock Plus 2.0]
+! Title: SiazFillter
+! Version: 202009040828
+! Last modified: 04 Sep 2020 08:28 +0700
 ! Expires: 3 days
+! Homepage: https://github.com/SiazFields012/SiazFillter
+! Support: https://github.com/SiazFields012/SiazFillter
 
 miku-doujin.com##.container.text-center.mb-3
 miku-doujin.com##.text-center.mb-3
