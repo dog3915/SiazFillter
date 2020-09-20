@@ -10,6 +10,7 @@ miku-doujin.com##.container.text-center.mb-3
 miku-doujin.com##.text-center.mb-3
 hanimesubth.com##.text-center
 nhentai.net##.container.advertisement.advt
+syndication.realsrv.com
 
 cat-translator.com##.banner_zone
 cat-translator.com###fixedban
