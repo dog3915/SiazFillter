@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: SiazFillter
-! Version: 202009040828
+! Version: EDIT V-0.3
 ! Last modified: 04 Sep 2020 08:28 +0700
 ! Expires: 3 days
 ! Homepage: https://github.com/SiazFields012/SiazFillter
