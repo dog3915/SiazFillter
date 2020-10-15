@@ -12,6 +12,7 @@ hanimesubth.com##.text-center
 nhentai.net##.container.advertisement.advt
 syndication.realsrv.com
 
+mangauptocats.online##.c-sidebar.c-top-second-sidebar
 cat-translator.com##.banner_zone
 cat-translator.com###fixedban
 
