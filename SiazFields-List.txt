@@ -22,6 +22,8 @@ anime-sugoi.com###bt-ads
 anime-sugoi.com##.col-md-8
 anime-master.com###slider-b
 animerem.com##.ads-banners
+fairyanime.com###kosana
+fairyanime.com##.concise.kosana.animated.bounce
 
 av-uncen.com###custom_html-3
 av-uncen.com##.widget_text.extendedwopts-md-center.widget.widget_custom_html
@@ -30,10 +32,3 @@ jav.guru##.sbox
 jav.guru##.cente
 jav.guru##div[style="text-align:center;"]
 jav.guru##div[style="text-align:center;"]
-
-! Widget
-##iframe[src*="wink.in.th"]
-
-!#if ext_ublock
-!#include ublock.txt
-!#endif
