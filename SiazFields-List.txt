@@ -32,3 +32,10 @@ jav.guru##.sbox
 jav.guru##.cente
 jav.guru##div[style="text-align:center;"]
 jav.guru##div[style="text-align:center;"]
+
+! Widget
+##iframe[src*="wink.in.th"]
+
+!#if ext_ublock
+!#include ublock.txt
+!#endif
