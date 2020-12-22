@@ -1,0 +1,73 @@
+[Adguard]
+! Title: SiazFillter
+! Version: EDIT NEW 1.00
+! Last modified: 05 Dec 2020 09:00 +0700
+! Homepage: https://github.com/SiazFields012/SiazFillter
+
+syndication.realsrv.com
+||i.imgur.com/cLWFyVG.gif
+||i.imgur.com/7rrSSfy.gif
+||neko-miku.com/images/bn/ohoslot-825x384-001.jpg
+||neko-miku.com/images/bn/sagame66-830x300-01.gif
+||neko-miku.com/images/bn/ohoslot-825x491-001.jpg
+||neko-miku.com/images/bn/sagame66-480x480-01.gif
+||neko-miku.com/images/bn/ohoslot-480x500-001.jpg
+||neko-miku.com/images/bn/ohoslot-480x764-001.jpg
+||i.imgur.com/sS6MVmy.gif
+||sbobet333.com/wp-content/uploads/2020/12/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94.gif
+||mangauptocats.online/wp-content/uploads/2020/12/2.gif
+||mangauptocats.online/wp-content/uploads/2020/12/cat350.png
+||cat-translator.com/manga/wp-content/uploads/2020/12/120x300-juad888.gif
+||i.imgur.com/9JFgZYu.gif
+miku-doujin.com##.container.text-center.mb-3
+miku-doujin.com##.text-center.mb-3
+hanimesubth.com##.text-center
+nhentai.net##.container.advertisement.advt
+cat-translator.com##.banner_zone
+cat-translator.com###fixedban
+cat300.com##.c-sidebar.c-top-sidebar
+dokimori.com##.col-md-12.text-center.mt-2
+mangauptocats.online##.c-sidebar.c-top-sidebar
+hentaithai.com##.col-12.col-sm-8.col-md-6.col-lg-4
+anime-sugoi.com###bt-ads
+anime-sugoi.com##.col-md-8
+anime-master.com###slider-b
+animerem.com##.ads-banners
+fairyanime.com###kosana
+fairyanime.com##.concise.kosana.animated.bounce
+neko-miku.com###side
+neko-miku.com###footer
+neko-miku.com###welcome
+neko-miku.com###top
+neko-miku.com##.comment
+cat-translator.com##.c-sidebar.c-top-sidebar
+cat-translator.com###afc_sidebar_8338
+cat-translator.com##.afc_popup
+av-uncen.com###custom_html-3
+av-uncen.com##.widget_text.extendedwopts-md-center.widget.widget_custom_html
+av-uncen.com##.code-block.code-block-2
+jav.guru##.sbox
+jav.guru##.cente
+jav.guru##div[style="text-align:center;"]
+mangauptocats.online###respond
+mangauptocats.online##.comment-respond
+mangauptocats.online###manga-discussion
+mangauptocats.online##.c-blog__heading.style-2.font-heading
+cat-translator.com##.row.c-row
+cat-translator.com###manga-discussion
+cat-translator.com##.c-blog__heading.style-2.font-heading
+cat-translator.com###respond
+cat-translator.com##.comment-respond
+cat-translator.com###madara-comments
+cat-translator.com##.comments-area
+||cat-translator.com/manga/wp-content/uploads/2020/12/13148490425016.gif
+||cat-translator.com/manga/wp-content/uploads/2020/12/140x250.gif
+||cat-translator.com/manga/wp-content/plugins/advanced-floating-content/public/images/advanced_floating_close_button.png
+cat-translator.com##.floating_content_close_button
+
+! Widget
+##iframe[src*="wink.in.th"]
+
+!#if ext_ublock
+!#include ublock.txt
+!#endif
