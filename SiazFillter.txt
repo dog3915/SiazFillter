@@ -1,8 +1,10 @@
-[Adguard]
-! Title: SiazFillter
-! Version: EDIT NEW 1.00
-! Last modified: 05 Dec 2020 09:00 +0700
-! Homepage: https://github.com/SiazFields012/SiazFillter
+[Adblock Plus 2.0]
+! Version:EDIT 1.00
+! Title:Siaz-Fillter
+! Last modified:1.30 GTM+7.00 12/22/2020
+! Expires: 4 days (update frequency)
+! Homepage:
+!
 
 syndication.realsrv.com
 ||i.imgur.com/cLWFyVG.gif
