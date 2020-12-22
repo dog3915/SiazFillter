@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
-! Version:
-! Title:
-! Last modified:
+! Version:EDIT 1.00
+! Title:Siaz-Fillter
+! Last modified:1.30 GTM+7.00 12/22/2020
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
+
 syndication.realsrv.com
 ||i.imgur.com/cLWFyVG.gif
 ||i.imgur.com/7rrSSfy.gif
