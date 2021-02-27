@@ -1,9 +1,8 @@
-[Adblock Plus 2.0]
-! Version:EDIT 1.00
-! Title:Siaz-Fillter
-! Last modified:1.30 GTM+7.00 12/22/2020
-! Expires: 4 days (update frequency)
-! Homepage:https://github.com/SiazFields012/SiazFillter/edit/master/SiazFillter.txt
+[Adguard]
+! Title: SiazFillter
+! Version: V.3.00 (Beta)
+! Last modified: 14 Feb 2021 10:00 +0700
+! Homepage: https://github.com/SiazFields012/SiazFillter
 
 syndication.realsrv.com
 ||i.imgur.com/cLWFyVG.gif
@@ -65,6 +64,88 @@ cat-translator.com##.comments-area
 ||cat-translator.com/manga/wp-content/uploads/2020/12/140x250.gif
 ||cat-translator.com/manga/wp-content/plugins/advanced-floating-content/public/images/advanced_floating_close_button.png
 cat-translator.com##.floating_content_close_button
+cat-translator.com###advanced_floating_content_8358
+cat-translator.com##.advanced_floating_content
+||cat300.com/wp-content/uploads/2020/12/2.gif
+||cat300.com/wp-content/uploads/2020/12/cat350.png
+||mangauptocats.online/wp-content/uploads/2020/12/cat350.png
+||sbobet333.com/wp-content/uploads/2020/12/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94.gif
+||mangauptocats.online/wp-content/uploads/2021/01/gifyoulike.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-Hydra888-v1.gif
+||mangauptocats.online/wp-content/uploads/2021/02/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B28888.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-lotto432.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-london.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFA1919.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFAC4.gif
+||mangauptocats.online/wp-content/uploads/2021/02/728x200-UFAzeed.gif
+||cat300.com/wp-content/uploads/2021/01/gifyoulike.gif
+||cat300.com/wp-content/uploads/2021/02/728x200-Hydra888-v1.gif
+||cat300.com/wp-content/uploads/2021/02/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B28888.gif
+||cat300.com/wp-content/uploads/2021/02/728x200-lotto432.gif
+||cat300.com/wp-content/uploads/2021/02/728x200-london.gif
+||cat300.com/wp-content/uploads/2020/12/cat350.png
+||cat300.com/wp-content/uploads/2021/02/728x200-UFAC4.gif
+||cat300.com/wp-content/uploads/2021/02/728x200-UFA1919.gif
+||cat300.com/wp-content/uploads/2021/02/728x200-UFAzeed.gif
+||cat300.com/wp-content/uploads/2021/02/140x250-Lockdown168.gif
+||cat300.com/wp-content/uploads/2021/02/140x250-brazil999.gif
+mangauptocats.online##.main-col.col-12.col-sm-8.col-md-8.col-lg-8
+mangauptocats.online##.textwidget.custom-html-widget
+mangauptocats.online##.c-sidebar.c-top-second-sidebar
+mangauptocats.online##.c-sidebar.c-top-sidebar
+mangauptocats.online###respond
+mangauptocats.online##.comment-respond
+animekimi.com###contenedor > div.module:last-child > div.module_home_x:first-child
+animekimi.com###single > div.module_home_x:first-child > center
+animekimi.com###animekimiads4 > a:first-child > img.animekimi-banner.lazy
+animekimi.com###animekimiads5 > a:first-child > img.animekimi-banner.lazy
+animekimi.com###animekimiads5 > a:last-child > img.animekimi-banner.lazy
+animekimi.com###single > div.module_home_x:nth-child(2)
+animekimi.com###animekimiads2 > a:first-child > img.animekimi-banner.lazy
+animekimi.com###animekimiads2 > a:last-child > img.animekimi-banner.lazy
+||img10.xyz/assets/img/banner-new/LFLOAT-Pussy888win_120x380.gif
+||img10.xyz/assets/img/banner-new/M1.gif
+||img10.xyz/assets/img/banner-new/M1_2.gif
+||img10.xyz/assets/img/banner-new/M6.jpg
+||img10.xyz/assets/img/banner-new/M7.jpg
+||img10.xyz/assets/img/banner-new/M9.jpg
+||img10.xyz/assets/img/banner-new/M8.jpg
+||img10.xyz/assets/img/banner-new/M4_Live22-1456x180px-.gif
+||img10.xyz/assets/img/banner-new/M2-PGslot77_1456x180.gif
+||img10.xyz/assets/img/banner-new/M1_joker123auto_1456x180.gif
+||img10.xyz/assets/img/banner-new/B1-live22auto-200x400xp.gif
+||img10.xyz/assets/img/banner-new/A1-pgslot99_816x200.gif
+||img10.xyz/assets/img/banner-new/A2_sexyauto168_816x200.gif
+||img10.xyz/assets/img/banner-new/A3-2-Ambpoker66-816x200.gif
+||img10.xyz/assets/img/banner-new/A4-winbet_2_816x200.gif
+||img10.xyz/assets/img/banner-new/B2_918kissauto_200x400.gif
+||img10.xyz/assets/img/banner-new/B3R-allbaccarat168_200x400.gif
+||img10.xyz/assets/img/banner-new/B4_slotxo24hr_200x400.gif
+||img10.xyz/assets/img/banner-new/MV2-sexybaccarat168_1456x180.gif
+||img10.xyz/assets/img/banner-new/MV1_918kissauto_1456x180.gif
+||img10.xyz/assets/img/banner-new/MV3_sexyauto168_1456x180_3.gif
+||img10.xyz/assets/img/banner-new/MV4.jpg
+||img10.xyz/assets/img/banner-new/MV5.jpg
+||img10.xyz/assets/img/banner-new/MV6.jpg
+||img10.xyz/assets/img/banner-new/MV7.jpg
+doomovie-hd.com##.b
+doomovie-hd.com##.side_floating_ad_close_btn
+doomovie-hd.com##.side_floating_ad.right-side_floating_ad
+doomovie-hd.com##.sb-bar.sb-right.sb-rounded-out.sb-connected.sb-white-icon.sb-white-icon-over.sb-white-label-text.sb-button-space.sb-css-anim
+doomovie-hd.com##.side_floating_ad.left-side_floating_ad
+doomovie-hd.com##.left-schedule.text-center
+doomovie-hd.com##.topad_mid
+doomovie-hd.com##.topad_side
+doomovie-hd.com##.w-100.h-100
+doomovie-hd.com##.topad_container
+doomovie-hd.com##.channel-list-container
+doomovie-hd.com##.w-50
+doomovie-hd.com##.ext-nav-button.float-left.h-100.pl-2.pr-2.text-decoration-none
+doomovie-hd.com###commentsBox
+doomovie-hd.com##.mt-3.mb-3.clearfix
+doomovie-hd.com##.movie-list-container-popular
+doomovie-hd.com##div[style="width:100%; margin: 0 auto;"]
+doomovie-hd.com##.footer
 
 ! Widget
 ##iframe[src*="wink.in.th"]
@@ -72,4 +153,3 @@ cat-translator.com##.floating_content_close_button
 !#if ext_ublock
 !#include ublock.txt
 !#endif
-!
