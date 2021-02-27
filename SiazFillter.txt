@@ -146,6 +146,16 @@ doomovie-hd.com##.mt-3.mb-3.clearfix
 doomovie-hd.com##.movie-list-container-popular
 doomovie-hd.com##div[style="width:100%; margin: 0 auto;"]
 doomovie-hd.com##.footer
+||cat300.com/wp-content/uploads/2021/02/cat350.gif
+||cat300.com/wp-content/uploads/2021/02/3.gif
+||mangauptocats.online/wp-content/uploads/2021/02/cat350.gif
+||mangauptocats.online/wp-content/uploads/2021/02/3.gif
+cat300.com##.c-chapter-readmore
+cat300.com###respond
+cat300.com##.comment-respond
+cat300.com###manga-discussion
+cat300.com##.c-blog__heading.style-2.font-heading
+||disqus.com/embed/comments/?base=default&f=miku-doujin&t_i=doujin_03w17&t_u=https%3A%2F%2Fmiku-doujin.com%2F03w17%2F&t_d=%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%5BHaduki%20sai%5D%20Aguri%20men%20to%20hoshuu&t_t=%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%5BHaduki%20sai%5D%20Aguri%20men%20to%20hoshuu&s_o=default#version=beba9d555eb031d108ecdcadbe9a7405
 
 ! Widget
 ##iframe[src*="wink.in.th"]
