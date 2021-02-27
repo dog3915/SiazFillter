@@ -1,7 +1,7 @@
 [Adguard]
 ! Title: SiazFillter
-! Version: V.521
-! Last modified: 14 Feb 2021 10:00 +0700
+! Version: V.3.00 BUILD 1
+! Last modified: 27 Feb 2021 10:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 
 syndication.realsrv.com
