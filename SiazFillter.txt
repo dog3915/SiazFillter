@@ -1,7 +1,7 @@
 [Adguard]
 ! Title: SiazFillter
-! Version: V.3.00 BUILD 1
-! Last modified: 27 Feb 2021 10:00 +0700
+! Version: V.3.00 BUILD 2
+! Last modified: 12 MAR 2021 16:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 
 syndication.realsrv.com
@@ -156,6 +156,27 @@ cat300.com##.comment-respond
 cat300.com###manga-discussion
 cat300.com##.c-blog__heading.style-2.font-heading
 ||disqus.com/embed/comments/?base=default&f=miku-doujin&t_i=doujin_03w17&t_u=https%3A%2F%2Fmiku-doujin.com%2F03w17%2F&t_d=%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%5BHaduki%20sai%5D%20Aguri%20men%20to%20hoshuu&t_t=%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%5BHaduki%20sai%5D%20Aguri%20men%20to%20hoshuu&s_o=default#version=beba9d555eb031d108ecdcadbe9a7405
+||rs.aoxx69.net/image/banner/202011241152235fbc91872401b.jpg
+||rs.aoxx69.net/image/banner/202101151211436001240ff0544.jpg
+||rs.aoxx69.net/image/banner/20210309122259604706338e3e3.jpg
+||rs.aoxx69.net/image/banner/202012191901065fddeb8206f4f.jpg
+||rs.aoxx69.net/image/banner/20210127153506601125ba094c8.jpg
+||rs.aoxx69.net/image/banner/20210303152510603f47e626de4.jpg
+||rs.aoxx69.net/image/banner/202012212022195fe0a18ba8da1.jpg
+||rs.aoxx69.net/image/banner/202011161230105fb20e6276dcb.jpg
+||rs.aoxx69.net/image/banner/20210302002727603d23ffb9e7c.jpg
+||rs.aoxx69.net/image/banner/202103041726116040b5c34a146.jpg
+||rs.aoxx69.net/image/banner/202012281656225fe9abc6f062c.jpg
+aoxx69.com##.slick-next.slick-arrow
+aoxx69.com##.slick-prev.slick-arrow.slick-disabled
+aoxx69.com##.w-100
+aoxx69.com##.exclamation.rounded-pill.align-self-center
+aoxx69.com###首頁mid\ ad\ 4\ \ \(MARVOW\)
+aoxx69.com##.GTM-sub-Banner.adimg
+aoxx69.com##.slick-wrapper.video_vip_list.mb-3.mb-2.hot_vieo_list
+aoxx69.com##.slick-prev.slick-arrow
+||cat300.com/wp-content/uploads/2021/03/newpapaya.gif
+||cat300.com/wp-content/uploads/2021/03/newcat350.gif
 
 ! Widget
 ##iframe[src*="wink.in.th"]
