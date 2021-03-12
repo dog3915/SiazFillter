@@ -1,6 +1,6 @@
 [Adguard]
 ! Title: SiazFillter
-! Version: V.3.00 BUILD 2
+! Version: V.3.00 BUILD 3
 ! Last modified: 12 MAR 2021 16:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 
@@ -177,6 +177,12 @@ aoxx69.com##.slick-wrapper.video_vip_list.mb-3.mb-2.hot_vieo_list
 aoxx69.com##.slick-prev.slick-arrow
 ||cat300.com/wp-content/uploads/2021/03/newpapaya.gif
 ||cat300.com/wp-content/uploads/2021/03/newcat350.gif
+||rs.aoxx69.net/image/banner/202012051443095fcb3a0d58dee.jpg
+||rs.aoxx69.net/image/banner/202012051443495fcb3a352aaf3.jpg
+aoxx69.com##.view_ad_door
+aoxx69.com##div[style="position: absolute; top: 0; right: 0;min-width: 270px;"]
+aoxx69.com###view長、動\ top\ ad\ 5\ \(slotgame6666\)
+aoxx69.com##.GTM-sub-Banner.adimg
 
 ! Widget
 ##iframe[src*="wink.in.th"]
