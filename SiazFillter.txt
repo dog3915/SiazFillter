@@ -1,4 +1,3 @@
-[Adguard]
 ! Title: SiazFillter
 ! Version: V.3.00 BUILD 3
 ! Last modified: 12 MAR 2021 16:00 +0700
