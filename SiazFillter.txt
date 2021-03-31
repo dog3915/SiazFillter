@@ -191,3 +191,10 @@ aoxx69.com##.GTM-sub-Banner.adimg
 @@||niceoppai.net/*/*.gif
 @@||cat300.com/*/*.gif
 @@||cat300.com/*/*/*.gif
+@@||cat300.com/*/*/*/*.gif
+@@||cat300.com/*/*.png
+@@||cat300.com/*/*/*.png
+@@||cat300.com/*/*/*/*.png
+@@||cat300.com/*/*.jpg
+@@||cat300.com/*/*/*.jpg
+@@||cat300.com/*/*/*/*.jpg
