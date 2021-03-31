@@ -1,4 +1,5 @@
 ! Title: SiazFillter
+! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
 ! Version: V.3.00 BUILD 3
 ! Last modified: 12 MAR 2021 16:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
@@ -182,10 +183,3 @@ aoxx69.com##.view_ad_door
 aoxx69.com##div[style="position: absolute; top: 0; right: 0;min-width: 270px;"]
 aoxx69.com###view長、動\ top\ ad\ 5\ \(slotgame6666\)
 aoxx69.com##.GTM-sub-Banner.adimg
-
-! Widget
-##iframe[src*="wink.in.th"]
-
-!#if ext_ublock
-!#include ublock.txt
-!#endif
