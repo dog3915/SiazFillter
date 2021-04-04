@@ -1,6 +1,6 @@
 ! Title: SiazFillter
 ! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.3.50 BUILD 5
+! Version: V.3.50 BUILD 6
 ! Last modified: 12 MAR 2021 16:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 ! License: https://github.com/SiazFields012/SiazFillter
@@ -132,6 +132,7 @@ animekimi.com###animekimiads2 > a:last-child > img.animekimi-banner.lazy
 ||img10.xyz/assets/img/banner-new/MV5.jpg
 ||img10.xyz/assets/img/banner-new/MV6.jpg
 ||img10.xyz/assets/img/banner-new/MV7.jpg
+||rs.aoxx69.net/image/banner/20210315174951604f3bcf256e0.jpg
 doomovie-hd.com##.b
 doomovie-hd.com##.side_floating_ad_close_btn
 doomovie-hd.com##.side_floating_ad.right-side_floating_ad
@@ -190,11 +191,4 @@ aoxx69.com##.GTM-sub-Banner.adimg
 
 @@||niceoppai.net/*/*.gif
 @@||cat300.com/*/*.gif
-@@||cat300.com/*/*/*.gif
-@@||cat300.com/*/*/*/*.gif
-@@||cat300.com/*/*.png
-@@||cat300.com/*/*/*.png
-@@||cat300.com/*/*/*/*.png
-@@||cat300.com/*/*.jpg
-@@||cat300.com/*/*/*.jpg
-@@||cat300.com/*/*/*/*.jpg
+
