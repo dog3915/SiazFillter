@@ -1,6 +1,6 @@
 ! Title: SiazFillter
 ! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.3.50 BUILD 6
+! Version: V.4.00 BUILD 1
 ! Last modified: 12 MAR 2021 16:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 ! License: https://github.com/SiazFields012/SiazFillter
@@ -200,6 +200,9 @@ aoxx69.com##.GTM-sub-Banner.adimg
 ||cat300.com/wp-content/uploads/2021/01/gifyoulike.gif
 ||cat300.com/wp-content/uploads/2021/02/728x200-lotto432.gif
 ||cat300.com/wp-content/uploads/2021/02/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B28888.gif
+||rs.aoxx69.net/image/banner/202011271101085fc07a048debc.jpg
+||rs.aoxx69.net/image/banner/20210315100941604ecff5f100b.jpg
+||rs.aoxx69.net/image/banner/202103181057116052cf97546fb.jpg
 
 @@||niceoppai.net/*/*.gif
 @@||cat300.com/*/*.gif
