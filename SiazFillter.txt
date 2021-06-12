@@ -179,6 +179,8 @@ aoxx69.com##.GTM-sub-Banner.adimg
 
 ||niceoppai.net/*.gif
 ||cat300.com/*.gif
+||cat300.com/*.mp4
+||1.bp.blogspot.com/*.gif
 ||1.bp.blogspot.com/*.gif
 ||i0.wp.com/*.gif
 
