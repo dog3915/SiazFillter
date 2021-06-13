@@ -184,5 +184,6 @@ aoxx69.com##.GTM-sub-Banner.adimg
 ||1.bp.blogspot.com/*.gif
 ||i0.wp.com/*.gif
 ||anime-sugoi.com/upload/335357af810d85d0409c3f977744e18fo.jpg
+||bakaman.net/*.gif
 
 
