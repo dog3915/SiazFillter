@@ -189,6 +189,7 @@ aoxx69.com##.GTM-sub-Banner.adimg
 ||img08.xyz/assets/img/banner-new/MV6.jpg
 ||img08.xyz/assets/img/banner-new/MV5.jpg
 ||img08.xyz/assets/img/banner-new/MV7.jpg
+||img08.xyz/*.gif
 
 
 
