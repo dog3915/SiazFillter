@@ -64,6 +64,9 @@ cat-translator.com###respond
 cat-translator.com##.comment-respond
 cat-translator.com###madara-comments
 cat-translator.com##.comments-area
+nekopost.net###commentBox
+nekopost.net##div.layout-wrapper:first-child > div.container-fluid.wrapper.svelte-ixpqjn:last-child > div.chapter-content.svelte-ixpqjn > div.layout-helper.svelte-ixpqjn:last-child
+nekopost.net##div.layout-wrapper:first-child > div.container-fluid.wrapper.dark.svelte-1v5ypug:last-child > div.chapter-content.svelte-1v5ypug > div.layout-helper.svelte-1v5ypug:last-child
 ||cat-translator.com/manga/wp-content/uploads/2020/12/13148490425016.gif
 ||cat-translator.com/manga/wp-content/uploads/2020/12/140x250.gif
 ||cat-translator.com/manga/wp-content/plugins/advanced-floating-content/public/images/advanced_floating_close_button.png
