@@ -179,6 +179,10 @@ aoxx69.com##.GTM-sub-Banner.adimg
 ||rs.aoxx69.net/image/banner/202011271101085fc07a048debc.jpg
 ||rs.aoxx69.net/image/banner/20210315100941604ecff5f100b.jpg
 ||rs.aoxx69.net/image/banner/202103181057116052cf97546fb.jpg
+manga689.com###content > div.wrapper > div.dessert-frame:first-child
+manga689.com###content > div.wrapper > div.postbody:nth-child(3) > div.kln:first-child
+manga689.com###wbnn
+manga689.com###post-312105 > div.entry-content.entry-content-single.maincontent:nth-child(4) > div.kln:nth-child(3)
 
 ||niceoppai.net/*.gif
 ||cat300.com/*.gif
