@@ -1,7 +1,7 @@
 ! Title: SiazFillter
 ! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.9.5
-! Last modified: 27 JUN 2022 11:00 +0700
+! Version: V.10.0
+! Last modified: 3 JUL 2022 15:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 ! License: https://github.com/SiazFields012/SiazFillter
 ! Reporting https://github.com/SiazFields012/SiazFillter
@@ -200,5 +200,18 @@ manga689.com###post-312105 > div.entry-content.entry-content-single.maincontent:
 ||cat300.com/*.webp
 ||mangauptocats.online/*.webp
 ||mangauptocats.net/*.webp
-
+||fwiptv.tv/*.gif
+||movie678.com/*.gif
+||movie678.com/*.webp
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.banner-top:first-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###page > aside.banner-float:nth-child(3)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.bottom-center:nth-child(3)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###secondary > div.banner-right:last-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###secondary > div.banner-left:last-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.bottom-center:nth-child(6)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.playing-movie:nth-child(4) > div.banner-player:first-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > div.grid-main > div.main-movie:nth-child(2) > div.other-movie:last-child
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###masthead > div.site-branding:first-child > div.header-info > ul.header-description:nth-child(2)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto > div.index-news:last-child
+||manga689.com/*.gif
 
