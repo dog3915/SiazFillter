@@ -1,7 +1,7 @@
 ! Title: SiazFillter
 ! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.10.0
-! Last modified: 3 JUL 2022 15:00 +0700
+! Version: V.10.5
+! Last modified: 17 JUL 2022 21:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 ! License: https://github.com/SiazFields012/SiazFillter
 ! Reporting https://github.com/SiazFields012/SiazFillter
@@ -214,4 +214,12 @@ xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto:last-child > di
 xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###masthead > div.site-branding:first-child > div.header-info > ul.header-description:nth-child(2)
 xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###primary > div.width-auto > div.index-news:last-child
 ||manga689.com/*.gif
-
+inu-manga.com##div.mainholder:nth-child(2) > div.header-ads-section:nth-child(3)
+inu-manga.com###post-131534 > div.bixbox:nth-child(3)
+inu-manga.com###comments
+inu-manga.com###footer
+inu-manga.com##a.scrollToTop:nth-child(4)
+inu-manga.com###post-140491 > div.ts-breadcrumb.bixbox:nth-child(2)
+inu-manga.com###post-140491 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+inu-manga.com###content > div.wrapper > div.chapterbody:first-child > div.postarea > div.bixbox:nth-child(4)
+inu-manga.com###post-140491 > div.chaptertags:last-child
