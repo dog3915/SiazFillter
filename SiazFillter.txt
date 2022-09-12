@@ -1,13 +1,25 @@
 ! Title: SiazFillter
 ! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.11.0
-! Last modified: 17 JUL 2022 21:00 +0700
+! Version: V.12.0
+! Last modified: 12 Sep 2022 12:00 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 ! License: https://github.com/SiazFields012/SiazFillter
 ! Reporting https://github.com/SiazFields012/SiazFillter
 ! Community: https://github.com/SiazFields012/SiazFillter
 ! Download: https://raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
 
+====================================================
+manga-sugoi.com##header.header:nth-child(3) > div.blox.mlb.kln:last-child
+manga-sugoi.com###wbnn
+manga-sugoi.com##main:nth-child(4) > div.content > div.series > div.container:last-child > div.series-flex > div.series-flexright:last-child > div.comment:last-child
+manga-sugoi.com##main:nth-child(4) > div.content:first-child > div.container:last-child > div.comment.single:last-child
+mangafin.net##div.wrap:nth-child(40) > div.body-wrap:first-child > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+mangafin.net###advanced_floating_content_3604
+mangafin.net###advanced_floating_content_3602
+mangafin.net###bottom_center_ads
+mangafin.net##div.wrap:nth-child(36) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
+happy-manga.com##div.wrap:nth-child(25) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+====================================================
 syndication.realsrv.com
 ||i.imgur.com/cLWFyVG.gif
 ||i.imgur.com/7rrSSfy.gif
