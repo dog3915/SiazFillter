@@ -1,12 +1,69 @@
 ! Title: SiazFillter
 ! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.12.0
-! Last modified: 12 Sep 2022 12:00 +0700
+! Version: V.12.5
+! Last modified: 23 Oct 2022 14:45 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 ! License: https://github.com/SiazFields012/SiazFillter
 ! Reporting https://github.com/SiazFields012/SiazFillter
 ! Community: https://github.com/SiazFields012/SiazFillter
 ! Download: https://raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--23/10/2022--
+joji-manga.com###content > div.wrapper > div.dessert-frame:first-child
+joji-manga.com###sidebar > div.widget_text.section:first-child
+joji-manga.com###wbnn
+joji-manga.com###colophon > div.footercopyright > div.copyright:last-child > div.txt > center:first-child
+joji-manga.com###post-29854 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+toomtam-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+toomtam-manga.com###wbnn
+toomtam-manga.com###sidebar > div.widget_text.section:first-child
+toomtam-manga.com###colophon > div.footercopyright > div.copyright:last-child > center:first-child
+toomtam-manga.com###post-54894 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(2)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(3)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.mb-4:nth-child(2)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.mb-4:nth-child(3)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.articlecontent__comment:nth-child(4)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > div.row:last-child > div.article__content.col-lg-8:first-child > div.articlecontent__body:first-child > p:nth-child(2)
+plawarn-manga.net##div.container-fluid:nth-child(3) > article.article.container.p-0 > a:nth-child(4) > img.lazy.animated.fadeIn.loaded
+rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+rh2plusmanga.com##div.ads-float:nth-child(45)
+rh2plusmanga.com###main-sidebar > div.widget_text.row:nth-child(3)
+rh2plusmanga.com###main-sidebar > div.widget_text.row:nth-child(4)
+rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(4)
+rh2plusmanga.com##div.ads-float:nth-child(46)
+rh2plusmanga.com##code:nth-child(4)
+bakaman.net##div.wrap:nth-child(9) > div.body-wrap > div.hads:nth-child(2)
+mangauptocats.com###custom_html-33
+mangauptocats.com###upcat_ads1
+mangauptocats.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+mangauptocats.com###upcat_ads3
+mangauptocats.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.post-16747.wp-manga.type-wp-manga.status-publish.has-post-thumbnail.hentry > div.c-page-content.style-1:last-child > div.content-area > div.container > div.row > div.main-col.col-md-8.col-sm-8:first-child > div.main-col-inner > div.manga-discussion.wrapper:last-child
+mangauptocats.com###manga-discussion
+mangauptocats.com###upcat_ads2
+mangauptocats.com##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1.reading-content-wrap.chapter-type-manga > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.row:last-child
+xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
+xn--l3c0azab5a2gta.com###post-118293 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child
+lami-manga.com###content > div.wrapper > div.dessert-frame:first-child
+lami-manga.com###wbnn
+lami-manga.com###colophon > div.footercopyright > div.copyright:last-child > div.txt > center:first-child
+weimanga.com###colophon > div.footercopyright:last-child
+manga689.com###colophon > div.footercopyright:last-child > div.copyright:last-child > div.txt > center:first-child
+manga168.com###content > div.wrapper > div.dessert-frame:first-child
+manga168.com###sidebar > div.widget_text.section:first-child
+manga168.com###colophon > div:last-child
+||manga689.com/wp-content/uploads/2022/06/689webp.webp
+||manga168.com/over-cover.webp
+||manga168.com/wp-content/uploads/2022/07/cover-yyyy.webp
+||lami-manga.com/wp-content/uploads/2022/07/manga-bl.webp
+||lami-manga.com/wp-content/uploads/2022/09/lami-cover.webp
+||weimanga.com/wp-content/uploads/2022/09/wei-cover.webp
+||toomtam-manga.com/wp-content/uploads/2022/07/2-%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87.webp
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------LEGACY------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ====================================================
 manga-sugoi.com##header.header:nth-child(3) > div.blox.mlb.kln:last-child
