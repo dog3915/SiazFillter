@@ -1,12 +1,17 @@
 ! Title: SiazFillter
 ! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.12.5
+! Version: V.13.0
 ! Last modified: 23 Oct 2022 14:45 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 ! License: https://github.com/SiazFields012/SiazFillter
 ! Reporting https://github.com/SiazFields012/SiazFillter
 ! Community: https://github.com/SiazFields012/SiazFillter
 ! Download: https://raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--29/11/2022--
+
+mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child
+mafia-manga.com###wbnn
 
 --23/10/2022--
 joji-manga.com###content > div.wrapper > div.dessert-frame:first-child
