@@ -1,12 +1,19 @@
 ! Title: SiazFillter
 ! Description: SiazFillter By Siaz Fields | Custom Fillter For Thai Site
-! Version: V.13.0
-! Last modified: 23 Oct 2022 14:45 +0700
+! Version: V.13.5+2
+! Last modified: 17 Jan 2023 09:30 +0700
 ! Homepage: https://github.com/SiazFields012/SiazFillter
 ! License: https://github.com/SiazFields012/SiazFillter
 ! Reporting https://github.com/SiazFields012/SiazFillter
 ! Community: https://github.com/SiazFields012/SiazFillter
 ! Download: https://raw.githubusercontent.com/SiazFields012/SiazFillter/master/SiazFillter.txt
+
+--17/01/2023--
+
+murim-manga.com###content > div.wrapper > div.dessert-frame:first-child
+murim-manga.com###ads_fix_footer
+murim-manga.com###colophon > div.footercopyright > div.copyright:last-child > center:first-child
+||murim-manga.com/wp-content/uploads/2022/08/WEBP.webp
 
 --29/11/2022--
 
