@@ -14,6 +14,7 @@ murim-manga.com###content > div.wrapper > div.dessert-frame:first-child
 murim-manga.com###ads_fix_footer
 murim-manga.com###colophon > div.footercopyright > div.copyright:last-child > center:first-child
 ||murim-manga.com/wp-content/uploads/2022/08/WEBP.webp
+murim-manga.com###comments
 
 --29/11/2022--
 
